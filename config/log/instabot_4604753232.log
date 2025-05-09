@@ -1,0 +1,90 @@
+2025-01-18 17:49:06,083 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2025-01-18 17:49:06,084 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/Nikith/Desktop/langchain/all_tasks_agents/venv/lib/python3.11/site-packages/instabot/bot/bot.py
+2025-01-18 17:49:06,086 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2025-01-18 17:49:06,533 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2025-01-18 17:49:07,001 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2025-01-18 17:49:07,410 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2025-01-18 17:49:07,819 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2025-01-18 17:49:11,197 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2025-01-18 17:49:11,197 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"challenge_required","challenge":{"url":"https://i.instagram.com/challenge/AXEvLwR32ZRhDXVwB98AKxW1GaIjg3VEWURv6V4N2Vmc_JtAzPJAfmHe_ut-iJ-05KWLQbo/AfwTVnvWk5ieqEw6fT6Udt7I93C9PARsoIDuRpvuAji3JLAYIqAakN8kZpHf4eVpNjWCW_6U4Oxmng/","api_path":"/challenge/AXEvLwR32ZRhDXVwB98AKxW1GaIjg3VEWURv6V4N2Vmc_JtAzPJAfmHe_ut-iJ-05KWLQbo/AfwTVnvWk5ieqEw6fT6Udt7I93C9PARsoIDuRpvuAji3JLAYIqAakN8kZpHf4eVpNjWCW_6U4Oxmng/","hide_webview_header":true,"lock":true,"logout":false,"native_flow":true,"flow_render_type":0},"status":"fail","error_type":"checkpoint_challenge_required"}'
+2025-01-18 17:49:11,197 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2025-01-18 17:49:11,198 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: challenge_required
+2025-01-18 17:49:11,199 - instabot version: 0.117.0 (api) - INFO - Error type: checkpoint_challenge_required
+2025-01-18 17:50:39,773 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2025-01-18 17:50:39,774 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/Nikith/Desktop/langchain/all_tasks_agents/venv/lib/python3.11/site-packages/instabot/bot/bot.py
+2025-01-18 17:50:39,775 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2025-01-18 17:50:41,209 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2025-01-18 17:50:41,720 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2025-01-18 17:50:42,130 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2025-01-18 17:50:42,541 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2025-01-18 17:50:44,086 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2025-01-18 17:50:44,086 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"challenge_required","challenge":{"url":"https://i.instagram.com/challenge/AXFlipZ1JmxsE2Zc0srHus30TFMwiVvBtvxPIrva8ptuYerUCrt8cotWlfm-FI65eX_GKSM/Afx8iBrodLbxb_Gvkd1Z7oYUNeDulYr3GK2PDPi379IS0o6tH-dXKsrFFSNH25v7Z6uvhq31vXOvkw/","api_path":"/challenge/AXFlipZ1JmxsE2Zc0srHus30TFMwiVvBtvxPIrva8ptuYerUCrt8cotWlfm-FI65eX_GKSM/Afx8iBrodLbxb_Gvkd1Z7oYUNeDulYr3GK2PDPi379IS0o6tH-dXKsrFFSNH25v7Z6uvhq31vXOvkw/","hide_webview_header":true,"lock":true,"logout":false,"native_flow":true,"flow_render_type":0},"status":"fail","error_type":"checkpoint_challenge_required"}'
+2025-01-18 17:50:44,086 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2025-01-18 17:50:44,088 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: challenge_required
+2025-01-18 17:50:44,090 - instabot version: 0.117.0 (api) - INFO - Error type: checkpoint_challenge_required
+2025-01-18 17:51:33,407 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2025-01-18 17:51:33,409 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/Nikith/Desktop/langchain/all_tasks_agents/venv/lib/python3.11/site-packages/instabot/bot/bot.py
+2025-01-18 17:51:33,409 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2025-01-18 17:51:33,845 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2025-01-18 17:51:34,360 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2025-01-18 17:51:34,869 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2025-01-18 17:51:35,278 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2025-01-18 17:51:36,713 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2025-01-18 17:51:36,713 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"challenge_required","challenge":{"url":"https://i.instagram.com/challenge/AXHoggTndJWunBevrcfevVkFxXYxSWkUC1Vai5nBaBO949gnwQWHZB86J1CtD-t2IdjVe08/Afydz4YXkZHrw_sMQHYVPv9-sZWXTJdXgN4gT0-GXdQ4X7py8ZFsbUMd9HLwaD9nHl-2Su55XSMFwQ/","api_path":"/challenge/AXHoggTndJWunBevrcfevVkFxXYxSWkUC1Vai5nBaBO949gnwQWHZB86J1CtD-t2IdjVe08/Afydz4YXkZHrw_sMQHYVPv9-sZWXTJdXgN4gT0-GXdQ4X7py8ZFsbUMd9HLwaD9nHl-2Su55XSMFwQ/","hide_webview_header":true,"lock":true,"logout":false,"native_flow":true,"flow_render_type":0},"status":"fail","error_type":"checkpoint_challenge_required"}'
+2025-01-18 17:51:36,713 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2025-01-18 17:51:36,716 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: challenge_required
+2025-01-18 17:51:36,718 - instabot version: 0.117.0 (api) - INFO - Error type: checkpoint_challenge_required
+2025-01-18 17:59:13,047 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2025-01-18 17:59:13,050 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/Nikith/Desktop/langchain/all_tasks_agents/venv/lib/python3.11/site-packages/instabot/bot/bot.py
+2025-01-18 17:59:13,052 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2025-01-18 17:59:13,432 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2025-01-18 17:59:13,843 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2025-01-18 17:59:14,252 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2025-01-18 17:59:14,558 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2025-01-18 17:59:15,944 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2025-01-18 17:59:15,944 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"challenge_required","challenge":{"url":"https://i.instagram.com/challenge/AXHB1x5rhbHDrVa_kWDgjwfbI_zq3kOXhXIFgwPLbhXhyg9slsFphCVY9OheIj9tYAoTK_o/AfyqluoUdKWHn9iQCI8GyWEC5itGDvUJPa12l3Zi7uk5kJf7kjk-TN4waryWSyxBiYW4G3fAwohPVQ/","api_path":"/challenge/AXHB1x5rhbHDrVa_kWDgjwfbI_zq3kOXhXIFgwPLbhXhyg9slsFphCVY9OheIj9tYAoTK_o/AfyqluoUdKWHn9iQCI8GyWEC5itGDvUJPa12l3Zi7uk5kJf7kjk-TN4waryWSyxBiYW4G3fAwohPVQ/","hide_webview_header":true,"lock":true,"logout":false,"native_flow":true,"flow_render_type":0},"status":"fail","error_type":"checkpoint_challenge_required"}'
+2025-01-18 17:59:15,944 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2025-01-18 17:59:15,947 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: challenge_required
+2025-01-18 17:59:15,950 - instabot version: 0.117.0 (api) - INFO - Error type: checkpoint_challenge_required
+2025-01-18 18:03:26,424 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2025-01-18 18:03:26,428 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/Nikith/Desktop/langchain/all_tasks_agents/venv/lib/python3.11/site-packages/instabot/bot/bot.py
+2025-01-18 18:03:26,429 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2025-01-18 18:03:27,134 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2025-01-18 18:03:27,595 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2025-01-18 18:03:28,108 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2025-01-18 18:03:28,524 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2025-01-18 18:03:30,052 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2025-01-18 18:03:30,053 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"We can send you an email to help you get back into your account.","status":"fail","error_title":"Forgotten password","buttons":[{"title":"Send email","action":"send_one_click_login_email"},{"title":"Try Again","action":"dismiss"}],"is_cp_nonce_flow":false,"login_identifer_type":"email","login_user_input":"nikithanupkumar1@gmail.com","qe_device_id":"c4b6206c-8ce0-4c9c-956a-d233db841f8f","login_attempt_count":1,"login_source":"unknown","error_code":1,"invalid_credentials":true,"exception_name":"UserInvalidCredentials","error_type":"bad_password"}'
+2025-01-18 18:03:30,053 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2025-01-18 18:03:30,057 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: We can send you an email to help you get back into your account.
+2025-01-18 18:03:30,061 - instabot version: 0.117.0 (api) - INFO - Error type: bad_password
+2025-01-18 18:03:30,065 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2025-01-18 18:03:30,069 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.
+2025-01-18 18:04:00,744 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2025-01-18 18:04:00,748 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/Nikith/Desktop/langchain/all_tasks_agents/venv/lib/python3.11/site-packages/instabot/bot/bot.py
+2025-01-18 18:04:00,749 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2025-01-18 18:04:01,108 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2025-01-18 18:04:01,492 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2025-01-18 18:04:01,910 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2025-01-18 18:04:02,217 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2025-01-18 18:04:03,436 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2025-01-18 18:04:03,437 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"We can send you an email to help you get back into your account.","status":"fail","error_title":"Forgotten password","buttons":[{"title":"Send email","action":"send_one_click_login_email"},{"title":"Try Again","action":"dismiss"}],"is_cp_nonce_flow":false,"login_identifer_type":"email","login_user_input":"nikithanupkumar1@gmail.com","qe_device_id":"68c3e0c0-6d72-461a-a936-f7220765805c","login_attempt_count":1,"login_source":"unknown","error_code":1,"invalid_credentials":true,"exception_name":"UserInvalidCredentials","error_type":"bad_password"}'
+2025-01-18 18:04:03,437 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2025-01-18 18:04:03,443 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: We can send you an email to help you get back into your account.
+2025-01-18 18:04:03,449 - instabot version: 0.117.0 (api) - INFO - Error type: bad_password
+2025-01-18 18:04:03,454 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2025-01-18 18:04:03,458 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.
+2025-01-18 18:04:51,579 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2025-01-18 18:04:51,584 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/Nikith/Desktop/langchain/all_tasks_agents/venv/lib/python3.11/site-packages/instabot/bot/bot.py
+2025-01-18 18:04:51,585 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2025-01-18 18:04:51,907 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2025-01-18 18:04:52,388 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2025-01-18 18:04:52,900 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2025-01-18 18:04:53,309 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2025-01-18 18:04:54,642 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2025-01-18 18:04:54,642 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"We can send you an email to help you get back into your account.","status":"fail","error_title":"Forgotten password","buttons":[{"title":"Send email","action":"send_one_click_login_email"},{"title":"Try Again","action":"dismiss"}],"is_cp_nonce_flow":false,"login_identifer_type":"email","login_user_input":"nikithanupkumar1@gmail.com","qe_device_id":"1df7797a-5adf-4951-af36-4d7c124fbff5","login_attempt_count":1,"login_source":"unknown","error_code":1,"invalid_credentials":true,"exception_name":"UserInvalidCredentials","error_type":"bad_password"}'
+2025-01-18 18:04:54,642 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2025-01-18 18:04:54,648 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: We can send you an email to help you get back into your account.
+2025-01-18 18:04:54,653 - instabot version: 0.117.0 (api) - INFO - Error type: bad_password
+2025-01-18 18:04:54,658 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2025-01-18 18:04:54,664 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.
